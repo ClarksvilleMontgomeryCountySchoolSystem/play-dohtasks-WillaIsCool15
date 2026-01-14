@@ -25,4 +25,3 @@ def main():
     print("9) Write Turtle on the name card.")
 if __name__ == "__main__":
     main()
-   
