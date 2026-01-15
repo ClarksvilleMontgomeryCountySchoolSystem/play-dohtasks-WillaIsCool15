@@ -9,7 +9,7 @@ def main():
         print("2) Form the ball into an egg shape.\n")
     else:
         print("2) Keep it round.")
-    print(f"3) Use {color2} to roll two thin ropes.")
+    print(f"3) Use {color1} to roll two thin ropes.")
     choice2 = input("A or B")
     # Use == to check the User's choice.
     # Use the correct string.
