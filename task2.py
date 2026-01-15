@@ -2,7 +2,7 @@ def main():
     color1 = "Purple"
     color2 = "Yellow"
     print(f"1) Use {color1} to roll a ball.")
-    choice1 = input("1,2, or 3?")
+    choice1 = input("1, 2, or 3?")
     if choice1 == "1":
         print("2) Make the ball flat.\n")
     elif choice1 == "2 ":
@@ -10,7 +10,7 @@ def main():
     else:
         print("2) Keep it round.")
     print(f"3) Use {color1} to roll two thin ropes.")
-    choice2 = input("A or B")
+    choice2 = input("A or B?")
     # Use == to check the User's choice.
     # Use the correct string.
     # Remember you are checking equality to a string. You must use quotes.
